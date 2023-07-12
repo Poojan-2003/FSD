@@ -1,0 +1,11 @@
+What is EXPORT DEFAULT Keyword?
+The export default keywords specify the main component in the file
+What is State?
+Data that changes over time is called state.
+
+handleSubmit : It is event handler ie only called when event is fired and not during compile time
+handleSubmit : It is directly called during complie time without firing any event
+
+{} : Anything written between {} is executed directly (At compile time)
+If we want anything to be executed only during event fire time either we should wrap with anonnymous function ()=>{}
+or with any relevant function name hello(){} or hello()=>{} 
